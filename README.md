@@ -1,6 +1,6 @@
 # Algorithm
 ## Introduction
-- introduction
+- [Introduction](https://github.com/YonghengZou/Algorithm/blob/main/01introduction/01_introduction.ipynb)
 
 ## Problem examples
 - [Binary search O(logn)](https://github.com/YonghengZou/Algorithm/blob/main/examples/001_binarySearch.ipynb)
