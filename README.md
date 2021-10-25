@@ -12,4 +12,4 @@
 All the optimization methods are implemented by Jupyter Notebook.
 I have placed all the source online. 
 
-If you find any problem, please email yonghengzou@uvic.ca.
+If you find any problem or want to give me any feedback, please email yonghengzou@uvic.ca.
