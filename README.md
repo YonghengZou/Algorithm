@@ -2,6 +2,7 @@
 ## Introduction
 - [Introduction](https://github.com/YonghengZou/Algorithm/blob/main/01introduction/01_introduction.ipynb)
 - [Characteristic](https://github.com/YonghengZou/Algorithm/blob/main/01introduction/02_characteristics.ipynb)
+- [Write and analyze](https://github.com/YonghengZou/Algorithm/blob/main/01introduction/03_writeAnalysis.ipynb)
 
 ## Problem examples
 - [Binary search O(logn)](https://github.com/YonghengZou/Algorithm/blob/main/examples/001_binarySearch.ipynb)
