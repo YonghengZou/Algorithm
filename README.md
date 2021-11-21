@@ -14,7 +14,7 @@
 - [Squares of sorted array](https://github.com/YonghengZou/Algorithm/blob/main/examples/004_squaredSorted.ipynb)
 - [Rotate array](https://github.com/YonghengZou/Algorithm/blob/main/examples/005_rotateArray.ipynb)
 - [Two sums](https://github.com/YonghengZou/Algorithm/blob/main/examples/0001_twoSum.ipynb)
-
+- [Palindrome number](https://github.com/YonghengZou/Algorithm/blob/main/examples/0002_palindromeNumber.ipynb)
 ## Statement
 All the optimization methods are implemented by Jupyter Notebook.
 I have placed all the source online. 
