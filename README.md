@@ -19,7 +19,7 @@
 - [Roman to integer](https://github.com/YonghengZou/Algorithm/blob/main/examples/0003_romanToInteger.ipynb)
 - [Longest common prefix ](https://github.com/YonghengZou/Algorithm/blob/main/examples/0004_longestPrefix.ipynb)
 ## Statement
-All the optimization methods are implemented by Jupyter Notebook.
-I have placed all the source online. 
+All the methods are implemented by Jupyter Notebook.
+And I have placed all the source online. 
 
 If you find any problem or want to give me any feedback, please email yonghengzou@uvic.ca.
