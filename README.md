@@ -6,6 +6,7 @@
 - [Freqency count method](https://github.com/YonghengZou/Algorithm/blob/main/01introduction/04_freqency.ipynb)
 - [Time complexity](https://github.com/YonghengZou/Algorithm/blob/main/01introduction/051_timeComplexity.ipynb)
   - [Time complexity examples](https://github.com/YonghengZou/Algorithm/blob/main/01introduction/052_timeComplexity.ipynb)
+- [Class of time functions](https://github.com/YonghengZou/Algorithm/blob/main/01introduction/6_classesFunction.ipynb)
 
 ## Problem examples
 - [Binary search O(logn)](https://github.com/YonghengZou/Algorithm/blob/main/examples/001_binarySearch.ipynb)
